@@ -1,0 +1,19 @@
+
+|||UDP server created on [04/16/2025 05:49:43] on port 4444|||
+
+[04/16/2025 05:50:34] ANNOUNCEMENT: Foxtrot (ID: 56152) has joined, welcome. Enter '!EXIT' to leave the server.
+[04/16/2025 05:50:56] Foxtrot (ID:56152): hello
+[04/16/2025 05:51:01] Server: hello
+[04/16/2025 05:51:30] ANNOUNCEMENT: Hotel (ID: 57482) has joined, welcome. Enter '!EXIT' to leave the server.
+[04/16/2025 05:51:36] Hotel (ID:57482): hello
+[04/16/2025 05:51:55] Server: hello hotel
+[04/16/2025 05:52:25] ANNOUNCEMENT: Foxtrot (ID:56152) has left the server.
+[04/16/2025 05:53:05] ANNOUNCEMENT: Skylark (ID: 52572) has joined, welcome. Enter '!EXIT' to leave the server.
+[04/16/2025 05:53:11] Skylark (ID:52572): hello
+[04/16/2025 05:53:29] Hotel (ID:57482): hello skylark
+[04/16/2025 05:53:33] Server: hello sklark
+[04/16/2025 05:53:35] Server: skylark
+
+|||UDP server created on [04/16/2025 06:34:09] on port 44444|||
+
+[04/16/2025 06:35:10] ANNOUNCEMENT: Dandy (ID: 64024) has joined, welcome. Enter '!EXIT' to leave the server.
